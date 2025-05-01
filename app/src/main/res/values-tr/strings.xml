@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TasarimCalismasi</string>
+    <string name="title">Özgürlük</string>
+    <string name="work">Çok Çalış</string>
+    <string name="sleep">Uyuma</string>
+    <string name="repeat">Tekrarla</string>
+    <string name="time">Ömür Boyu</string>
+    <string name="Delivery">Sipariş</string>
+    <string name="comment">Hayatta herkesin sarhoşu olduğu bir şeyler vardı.</string>
+    <string name="pay">$ ???</string>
+    <string name="button">Satın Al ?</string>
+    <string name="Breakyourchains">Zincirlerinden Kurtul</string>
+
+
+
+</resources>
